@@ -1,8 +1,8 @@
 ---
 title: "Week 1: Lab"
 subtitle: "Making maps with `tmap`"
-author: "Your Name"
-date: 2025-10-2
+author: "Rachel Miller"
+date: 2026-10-1
 execute: 
   eval: true
 format:
